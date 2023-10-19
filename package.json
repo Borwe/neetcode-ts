@@ -1,0 +1,19 @@
+{
+  "name": "neetcode-ts",
+  "version": "1.0.0",
+  "description": "neetcode.io solutions in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contains_duplicate": "ts-node src/contains_duplicate.ts"
+  },
+  "keywords": [
+    "neetcode",
+    "algorithms"
+  ],
+  "author": "brian.orwe@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
