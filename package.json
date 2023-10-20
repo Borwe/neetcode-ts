@@ -4,8 +4,10 @@
   "description": "neetcode.io solutions in typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "contains_duplicate": "ts-node src/contains_duplicate.ts"
+    "contains_duplicate": "ts-node src/contains_duplicate.ts",
+      "valid_anagram": "ts-node src/valid_anagram.ts",
+	  "two_sum": "ts-node src/two_sum.ts",
+	  "group_anagrams": "ts-node src/group_anagrams.ts"
   },
   "keywords": [
     "neetcode",
