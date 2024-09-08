@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "contains_duplicate": "ts-node src/contains_duplicate.ts",
-      "valid_anagram": "ts-node src/valid_anagram.ts",
-	  "two_sum": "ts-node src/two_sum.ts",
-	  "group_anagrams": "ts-node src/group_anagrams.ts"
+    "valid_anagram": "ts-node src/valid_anagram.ts",
+    "two_sum": "ts-node src/two_sum.ts",
+    "group_anagrams": "ts-node src/group_anagrams.ts",
+    "string-encode-and-decode": "ts-node src/string-encode-and-decode.ts"
   },
   "keywords": [
     "neetcode",
