@@ -9,7 +9,8 @@
     "two_sum": "ts-node src/two_sum.ts",
     "group_anagrams": "ts-node src/group_anagrams.ts",
     "string-encode-and-decode": "ts-node src/string-encode-and-decode.ts",
-    "valid_sudoku": "ts-node src/valid_sudoku.ts"
+    "valid_sudoku": "ts-node src/valid_sudoku.ts",
+    "longest-consecutive-sequence": "ts-node src/longest-consecutive-sequence.ts"
   },
   "keywords": [
     "neetcode",
