@@ -8,7 +8,8 @@
     "valid_anagram": "ts-node src/valid_anagram.ts",
     "two_sum": "ts-node src/two_sum.ts",
     "group_anagrams": "ts-node src/group_anagrams.ts",
-    "string-encode-and-decode": "ts-node src/string-encode-and-decode.ts"
+    "string-encode-and-decode": "ts-node src/string-encode-and-decode.ts",
+    "valid_sudoku": "ts-node src/valid_sudoku.ts"
   },
   "keywords": [
     "neetcode",
